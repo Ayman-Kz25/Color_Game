@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       home: ColorGame(),
-      title: "23SW011 - Widgets Task",
+      title: "Ayman Kz - Color Game",
     );
   }
 }
