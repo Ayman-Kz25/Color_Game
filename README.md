@@ -1,16 +1,21 @@
-# mad_class_tasks
+# Color Tap Game 🎨
 
-A new Flutter project.
+A simple Flutter-based color recognition game where users tap the correct color based on the displayed prompt.
 
-## Getting Started
+## 📱 Features
+- Random color prompt generation
+- Instant feedback (Correct/Wrong)
+- Live score tracking
+- Reset score functionality
+- Clean and responsive UI
 
-This project is a starting point for a Flutter application.
+## 🛠️ Built With
+- Flutter
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 How to Run
+1. Clone the repository
+2. Run `flutter pub get`
+3. Execute `flutter run`
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A beginner-friendly Flutter project demonstrating StatefulWidget usage, UI layout, and basic game logic.
